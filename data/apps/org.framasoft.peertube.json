@@ -2,10 +2,19 @@
     "configs": [
         {
             "id": "org.framasoft.peertube",
+            "url": "https://framagit.org/framasoft/peertube/mobile-application",
+            "author": "Framasoft",
+            "name": "PeerTube",
+            "overrideSource": "GitLab",
+            "altLabel": "Framasoft's GitLab"
+        },
+        {
+            "id": "org.framasoft.peertube",
             "url": "https://asso.framasoft.org/dolo/h/peertube-apk-latest",
             "author": "asso.framasoft.org",
             "name": "PeerTube",
-            "overrideSource": "DirectAPKLink"
+            "overrideSource": "DirectAPKLink",
+            "altLabel": "Direct Apk Link"
         }
     ],
     "icon": "https://framasoft.frama.io/peertube/mobile-application/icon_with_background.png",
